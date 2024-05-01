@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Space
+comment1.params=col\ row
+comment1.target=Space(int,\ int)
+comment2.params=toRow\ toCol
+comment2.target=boolean\ isValidMove(int,\ int)
+comment3.params=board
+comment3.target=java.util.List\ getValidMoves(Board)
+numComments=4

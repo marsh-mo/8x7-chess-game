@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Sun
+comment1.params=x\ y\ color
+comment1.target=Sun(int,\ int,\ PieceColor)
+comment2.params=toRow\ toCol
+comment2.target=boolean\ isValidMove(int,\ int)
+comment3.params=board
+comment3.target=java.util.List\ getValidMoves(Board)
+comment4.params=board\ col\ row\ currentColor
+comment4.target=boolean\ isOpponentPiece(Board,\ int,\ int,\ PieceColor)
+numComments=5

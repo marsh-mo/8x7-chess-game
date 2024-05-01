@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PieceMovingListener
+comment1.params=row\ col\ boardController\ chessBoardView
+comment1.target=PieceMovingListener(int,\ int,\ BoardController,\ ChessBoardView)
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=sourcePosition
+comment3.target=void\ highlightValidMoves(Position)
+comment4.params=
+comment4.target=void\ removeHighlight()
+numComments=5

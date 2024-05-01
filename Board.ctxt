@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment10.params=
+comment10.target=int\ getCols()
+comment11.params=
+comment11.target=void\ flipBoard()
+comment2.params=
+comment2.target=void\ initializeBoard()
+comment3.params=row\ col
+comment3.target=Piece\ getPiece(int,\ int)
+comment4.params=row\ col
+comment4.target=void\ removePiece(int,\ int)
+comment5.params=toRow\ toCol
+comment5.target=boolean\ isValidMove(int,\ int)
+comment6.params=piece\ row\ col
+comment6.target=void\ placePiece(Piece,\ int,\ int)
+comment7.params=row\ col\ piece
+comment7.target=void\ setPiece(int,\ int,\ Piece)
+comment8.params=row\ col
+comment8.target=Piece\ getPieceAt(int,\ int)
+comment9.params=
+comment9.target=int\ getRows()
+numComments=12
